@@ -9,7 +9,7 @@ API Used: [Go QR](https://goqr.me/api/)
 - JavaScript, HTML, CSS
 - Animations
 - APIs
-- Asyncronous
+- Asynchronous
 - DOM Manipulation
 - Query Parameters
 
